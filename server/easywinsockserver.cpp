@@ -195,6 +195,7 @@ int main()
 	{
 		dummyFile << fileBuffer[i];
 	}
+	//cleanup
 	delete fileBuffer;
 	dummyFile.close();
 	delete recvbuf;

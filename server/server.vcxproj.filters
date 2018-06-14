@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\client\dataScrape.vcxproj.filters" />
+  </ItemGroup>
+  <ItemGroup>
     <ClCompile Include="easywinsockserver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

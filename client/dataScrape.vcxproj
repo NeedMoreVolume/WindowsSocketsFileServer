@@ -25,6 +25,7 @@
     <ProjectGuid>{B87E7B8E-B1EA-4DA9-A262-055455DC4F11}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>dataScrape</RootNamespace>
+    <ProjectName>client</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

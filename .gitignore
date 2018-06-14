@@ -154,3 +154,16 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+dataScrape/Imightberetarded.cpp
+dataScrape/boostclient.cpp
+dataScrape/boostserver.cpp
+NeuralNet/NeuralNet.vcxproj
+NeuralNet/NeuralNet.vcxproj.filters
+server/extraoldcode.txt
+server/newEntry.txt
+server/theTempest.txt
+server/theTempest.txt1
+server/userdata.dat
+dataScrape/server.cpp
+dataScrape/client.cpp
+dataScrape/extraoldcode.txt
