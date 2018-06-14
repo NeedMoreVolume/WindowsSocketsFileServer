@@ -167,11 +167,3 @@ server/userdata.dat
 dataScrape/server.cpp
 dataScrape/client.cpp
 dataScrape/extraoldcode.txt
-client/server.cpp
-client/client.cpp
-.cpp
-client/Imightberetarded.cpp
-client/extraoldcode.txt
-client/client.cpp
-client/boostserver.cpp
-client/boostclient.cpp
